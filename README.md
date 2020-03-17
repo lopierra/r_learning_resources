@@ -20,7 +20,7 @@ A little more advanced:
 -	Advanced R: http://adv-r.had.co.nz/Introduction.html
 
 Other stuff:
--	Follow #rstats on Twitter
+-	Follow [#rstats](https://twitter.com/hashtag/rstats?f=live) on Twitter
 -	RStudio cheatsheets – I use these constantly: https://rstudio.com/resources/cheatsheets/
 -	If you want a non-work-related dataset to play with: https://github.com/rfordatascience/tidytuesday
   -	And search #tidytuesday on Twitter to see what others have done
