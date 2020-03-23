@@ -7,6 +7,7 @@ For beginners/if you need a basic refresher:
 -	OCTRI’s excellent Intro to R workshops, also videos: https://github.com/jminnier/berd_r_courses
 -	R Bootcamp (interactive online tutorial), by OHSU’s Ted Laderas and Jessica Minnier: https://r-bootcamp.netlify.com/
 -	R for Excel Users (book): https://rstudio-conf-2020.github.io/r-for-excel/
+- Getting Used to R (book): https://ismayc.github.io/rbasics-book/index.html
 
 Also beginner friendly, but extending further into statistics & data science:
 -	R for Data Science (https://r4ds.had.co.nz/index.html)
