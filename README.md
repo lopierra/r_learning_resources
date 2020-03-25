@@ -18,7 +18,8 @@ Also beginner friendly, but extending further into statistics & data science:
 
 A little more advanced:
 -	What They Forgot to Teach You About R (ie, what your project workflow should look like): https://rstats.wtf/index.html
--	Advanced R: http://adv-r.had.co.nz/Introduction.html
+-	Advanced R (book): http://adv-r.had.co.nz/Introduction.html
+- Introduction to Generalized Additive Models (interactive tutorial): https://noamross.github.io/gams-in-r-course/
 
 Other stuff:
 -	Follow [#rstats](https://twitter.com/hashtag/rstats?f=live) on Twitter
