@@ -18,6 +18,7 @@ Also beginner friendly, but extending further into statistics & data science:
 
 A little more advanced:
 -	What They Forgot to Teach You About R (ie, what your project workflow should look like): https://rstats.wtf/index.html
+- Plotting Anything with ggplot2 (video + exercises, theory + practice): https://github.com/thomasp85/ggplot2_workshop
 -	Advanced R (book): http://adv-r.had.co.nz/Introduction.html
 - Introduction to Generalized Additive Models (interactive tutorial): https://noamross.github.io/gams-in-r-course/
 
