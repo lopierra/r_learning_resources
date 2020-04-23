@@ -1,6 +1,6 @@
 # r_learning_resources
 
-*Latest update: April 9, 2020*
+*Latest update: April 22, 2020*
 
 Here are some great tutorials (both video and book format) for learning R. They are in no particular order - pick one that speaks to you and dive in!
 
@@ -12,6 +12,7 @@ For beginners/if you need a basic refresher:
 -	R Bootcamp (interactive online tutorial), by OHSU’s Ted Laderas and Jessica Minnier: https://r-bootcamp.netlify.com/
 -	R for Excel Users (book): https://rstudio-conf-2020.github.io/r-for-excel/
 - Getting Used to R (book): https://ismayc.github.io/rbasics-book/index.html
+- RMarkdown for Scientists (short book, based on a 3-hour workshop): https://rmd4sci.njtierney.com/
 
 Also beginner friendly, but extending further into statistics & data science:
 -	R for Data Science (https://r4ds.had.co.nz/index.html)
