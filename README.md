@@ -1,6 +1,7 @@
 # r_learning_resources
 
-*Latest update: April 22, 2020*
+**Maintained by [Pierrette Lo](https://github.com/lopierra)**
+<br> *Latest update: April 22, 2020*
 
 Here are some great tutorials (both video and book format) for learning R. They are in no particular order - pick one that speaks to you and dive in!
 
