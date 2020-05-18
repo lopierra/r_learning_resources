@@ -1,6 +1,6 @@
 # csv,conf,v5 recap
 
-**Pierrette Lo**
+**[Pierrette Lo](https://github.com/lopierra)**
 <br> **May 13 & 14, 2020**
 
 I had the pleasure of attending the csv,conf,v5 virtual conference last week. It's named after the CSV data format, but it's a unique mix of speakers and topics at the intersection of data science, journalism, tech, advocacy, open source, academic research, and government. 
