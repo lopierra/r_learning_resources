@@ -36,7 +36,7 @@ o	Free virtual Frictionless Data workshop on May 20 – sign up [here](https://b
 
 From Nicola: below are some additional talks that I found interesting
 
-- [Decision making in "successful' data analysis] (https://csvconf.com/speakers/#salina-cheuk-ting-ho) (talk) - We think of data as being objective when it's not. When we're analyzing data, we're making many explicit and implicit decisions along the way which impact the outcome.
+- [Decision making in "successful' data analysis](https://csvconf.com/speakers/#salina-cheuk-ting-ho) (talk) - We think of data as being objective when it's not. When we're analyzing data, we're making many explicit and implicit decisions along the way which impact the outcome.
 
 - How data has transformed journalism. Inside and out. by Sisi Wei (talk) - Keynote address from an investigative journalist. I like how she talked about how people in her industry can "collaborate on technology and compete on the stories". This also applies to our academic research. I also liked her idea of interviewing your data set. "If you had a human being with all of this knowledge, what would you ask them?" Great use of data visualizations.
 
