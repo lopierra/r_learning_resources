@@ -1,7 +1,7 @@
 # r_learning_resources
 
 **Maintained by [Pierrette Lo](https://github.com/lopierra)**
-<br> *Latest update: April 22, 2020*
+<br> *Latest update: May 18, 2020*
 
 Here are some great tutorials (both video and book format) for learning R. They are in no particular order - pick one that speaks to you and dive in!
 
@@ -27,6 +27,9 @@ A little more advanced:
 - Plotting Anything with ggplot2 (video + exercises, theory + practice): https://github.com/thomasp85/ggplot2_workshop
 -	Advanced R (book): http://adv-r.had.co.nz/Introduction.html
 - Introduction to Generalized Additive Models (interactive tutorial): https://noamross.github.io/gams-in-r-course/
+- Getting started with {tidymodels} for modeling & machine learning: https://www.tidymodels.org/start/
+- Supervised machine learning case studies in R: https://supervised-ml-course.netlify.com/
+
 
 Other stuff:
 -	Follow [#rstats](https://twitter.com/hashtag/rstats?f=live) on Twitter
