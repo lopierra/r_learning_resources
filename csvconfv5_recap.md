@@ -33,3 +33,11 @@ o	Free virtual Frictionless Data workshop on May 20 – sign up [here](https://b
 
 **R:**
 -	[RMarkdown-Driven Development](https://csvconf.com/speakers/#emily-riederer) (talk) – This was my favourite talk in terms of immediately useful tips. If you've been working in R but are ashamed to share your code with others – (a) don't be! Everyone feels the same way; but (b) the tips in this talk will help you clean things up, both for others and your future self. This talk is based on this excellent [blog post](https://emilyriederer.netlify.app/post/rmarkdown-driven-development/) and [technical appendix](https://emilyriederer.netlify.app/post/rmddd-tech-appendix/). 
+
+From Nicola: below are some additional talks that I found interesting
+
+- [Decision making in "successful' data analysis] (https://csvconf.com/speakers/#salina-cheuk-ting-ho) (talk) - We think of data as being objective when it's not. When we're analyzing data, we're making many explicit and implicit decisions along the way which impact the outcome.
+
+- How data has transformed journalism. Inside and out. by Sisi Wei (talk) - Keynote address from an investigative journalist. I like how she talked about how people in her industry can "collaborate on technology and compete on the stories". This also applies to our academic research. I also liked her idea of interviewing your data set. "If you had a human being with all of this knowledge, what would you ask them?" Great use of data visualizations.
+
+- Data Solidarity: Lessons from co-building open source tools with Indigenous Peoples by Emily Jacobi (talk) - This was the second keynote address. It had little to do with our research work, but the data story around the technology of Mapeo was beautifully recounted and worth watching.
