@@ -1,6 +1,7 @@
 # csv,conf,v5 recap
 
 **[Pierrette Lo](https://github.com/lopierra)**
+<br> with additional report by Nicola Long [below](#nicolas-report)
 <br> **May 13 & 14, 2020**
 
 I had the pleasure of attending the csv,conf,v5 virtual conference last week. It's named after the CSV data format, but it's a unique mix of speakers and topics at the intersection of data science, journalism, tech, advocacy, open source, academic research, and government. 
@@ -34,7 +35,9 @@ o	Free virtual Frictionless Data workshop on May 20 – sign up [here](https://b
 **R:**
 -	[RMarkdown-Driven Development](https://csvconf.com/speakers/#emily-riederer) (talk) – This was my favourite talk in terms of immediately useful tips. If you've been working in R but are ashamed to share your code with others – (a) don't be! Everyone feels the same way; but (b) the tips in this talk will help you clean things up, both for others and your future self. This talk is based on this excellent [blog post](https://emilyriederer.netlify.app/post/rmarkdown-driven-development/) and [technical appendix](https://emilyriederer.netlify.app/post/rmddd-tech-appendix/). 
 
-From Nicola: below are some additional talks that I found interesting
+#### Nicola's report
+
+Below are some additional talks that I found interesting:
 
 - [Decision making in "successful' data analysis](https://csvconf.com/speakers/#salina-cheuk-ting-ho) (talk) - We think of data as being objective when it's not. When we're analyzing data, we're making many explicit and implicit decisions along the way which impact the outcome.
 
