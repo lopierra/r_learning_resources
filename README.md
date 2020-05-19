@@ -1,7 +1,7 @@
 # r_learning_resources
 
 **Maintained by [Pierrette Lo](https://github.com/lopierra)**
-<br> *Latest update: May 18, 2020*
+<br> *Latest update: May 19, 2020*
 
 Here are some great tutorials (both video and book format) for learning R. They are in no particular order - pick one that speaks to you and dive in!
 
@@ -30,7 +30,6 @@ A little more advanced:
 - Getting started with {tidymodels} for modeling & machine learning: https://www.tidymodels.org/start/
 - Supervised machine learning case studies in R: https://supervised-ml-course.netlify.com/
 
-
 Other stuff:
 -	Follow [#rstats](https://twitter.com/hashtag/rstats?f=live) on Twitter
 -	RStudio cheatsheets – I use these constantly: https://rstudio.com/resources/cheatsheets/
@@ -39,6 +38,9 @@ Other stuff:
 - Non-technical overview of Git and GitHub (slides + youtube video): https://speakerdeck.com/alicebartlett/git-for-humans
 -	If you want to learn how to use Git/GitHub with R: https://happygitwithr.com/
 -	Finally, RStudio has a great collection of freely available webinars (https://resources.rstudio.com/webinars) and talks from their recent conference (https://resources.rstudio.com/rstudio-conf-2020)
+
+Other people's roundups - i.e. good stuff that might not be on my radar:
+- Alison Hill's Remote Learning Roundup (https://education.rstudio.com/blog/2020/05/remote-roundup/)
 
 ---
 
