@@ -1,7 +1,10 @@
 # r_learning_resources
 
 **Maintained by [Pierrette Lo](https://github.com/lopierra)**
-<br> *Latest update: May 19, 2020*
+
+*Update, Aug. 27, 2020*: Pretty much every R book ever written is now collected in Oscar Baruffa's amazing [**Big Book of R**](https://www.bigbookofr.com/)
+
+---
 
 Here are some great tutorials (both video and book format) for learning R. They are in no particular order - pick one that speaks to you and dive in!
 
