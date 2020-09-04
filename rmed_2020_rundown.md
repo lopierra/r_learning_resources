@@ -1,17 +1,17 @@
 ## **R/Medicine 2020 Conference - Quick Rundown**
 
-[R/Medicine](https://events.linuxfoundation.org/r-medicine/) was virtual this year, so I finally got to attend. Great speakers, fantastic mix of topics, and really well organized. Both R/Med and csv,conf used Crowdcast - my favourite of the many virtual conference platforms I've experienced this year.
+[R/Medicine](https://events.linuxfoundation.org/r-medicine/) was virtual this year, so I finally got to attend. Both R/Med and csv,conf used Crowdcast - my favourite of the many virtual conference platforms I've experienced this year. R/Med was really well organized, with great speakers and a fantastic mix of topics from R, statistics, and clinical studies. 
 
 There was a *lot* of information packed into this 2.5-day conference, so I haven't had time to process everything, but here's a quick list of interesting things that I need to read more about later.
 
 Currently the recordings are available on [Crowdcast](https://www.crowdcast.io/e/rmedicine2020) for registrants, but I've tried to link to open sources below. Check out [@r_medicine](https://twitter.com/r_medicine) or [#RMedicine2020](https://twitter.com/hashtag/RMedicine2020) for recaps and conversations. 
 
-* [Tidymodels/machine learning workshop](https://tmv.netlify.app/site/) - this was fantastic, now just need to use this again so I can remember it!
+* [Tidymodels/machine learning workshop](https://tmv.netlify.app/site/) - this was fantastic, now just need to use this again so I can remember it! We went through an example of building a supervised classification model. Website has links to all the slides and exercises.
 
 * Reading material:
-    * [Double dipping in statistical analysis](https://twitter.com/lucylgao/status/1299763664644313089) - fix by conditioning on hypothesis selection procedure (preprint in prep)
+    * [Double dipping in statistical analysis](https://twitter.com/lucylgao/status/1299763664644313089) - what is double dipping, and how to fix by conditioning on hypothesis selection procedure. Preprint is still in preparation, but Twitter thread gives a good summary.
     * [HealthyR](https://healthyr.surgicalinformatics.org/) - training & resources for health data analysis
-    * [Arcus Education](https://education.arcus.chop.edu/) at Children's Hospital of Philadelphia
+    * [Arcus Education](https://education.arcus.chop.edu/) at Children's Hospital of Philadelphia - more training & resources
 
 * Shiny apps:
     * [{shinyviz}](https://github.com/riinuots/shinyviz) - template Shiny app for summarizing & visualizing categorical data; customize for your own data
