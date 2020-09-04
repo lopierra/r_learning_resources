@@ -33,7 +33,8 @@ Currently the recordings are available on [Crowdcast](https://www.crowdcast.io/e
 
 * Packages - Publications/communication
     * [{gtsummary}](https://github.com/ddsjoberg/gtsummary) - make publication-ready analytical and summary tables. Example:
-    ![example from gtsummary github](https://github.com/ddsjoberg/gtsummary/raw/master/man/figures/README-tbl_merge_ex1-1.png)
+    <img src="https://github.com/ddsjoberg/gtsummary/raw/master/man/figures/README-tbl_merge_ex1-1.png" width="500" />
+    
     * [{finalfit}](https://github.com/ewenharrison/finalfit/blob/master/README.md) - make nice tables for publication; similar to {gtsummary}
 
 * Packages - Clinical data
@@ -47,7 +48,8 @@ Currently the recordings are available on [Crowdcast](https://www.crowdcast.io/e
     * [{treeheatr}](https://trang1618.github.io/treeheatr/) - decision tree + heatmap visualization for better interpretability. Example:
     ![example from treeheatr github](https://trang1618.github.io/treeheatr/reference/figures/unnamed-chunk-4-1.png)
     * [{runcharter}](https://github.com/johnmackintosh/runcharter) - plot & analyze run charts to track changes over time. Example:
-    ![example from runcharter github](https://github.com/johnmackintosh/runcharter/raw/master/man/figures/runs_below-1.png)
+    <img src="https://github.com/johnmackintosh/runcharter/raw/master/man/figures/runs_below-1.png" width="500" />
+    
     * [{twilio}](https://github.com/seankross/twilio) - connect to Twilio API to send text messages from R    
     
 
