@@ -9,7 +9,7 @@ Currently the recordings are available on [Crowdcast](https://www.crowdcast.io/e
 * [Tidymodels/machine learning workshop](https://tmv.netlify.app/site/) - this was fantastic, now just need to use this again so I can remember it!
 
 * Reading material:
-    * [Double dipping](https://twitter.com/lucylgao/status/1299763664644313089) - fix by conditioning on hypothesis selection procedure (preprint in prep)
+    * [Double dipping in statistical analysis](https://twitter.com/lucylgao/status/1299763664644313089) - fix by conditioning on hypothesis selection procedure (preprint in prep)
     * [HealthyR](https://healthyr.surgicalinformatics.org/) - training & resources for health data analysis
     * [Arcus Education](https://education.arcus.chop.edu/) at Children's Hospital of Philadelphia
 
