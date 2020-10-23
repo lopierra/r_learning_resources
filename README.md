@@ -11,9 +11,9 @@ Here are some great tutorials (both video and book format) for learning R. They 
 For beginners/if you need a basic refresher:
 -	Great overview of what R even is (video): https://resources.rstudio.com/webinars/a-gentle-introduction-to-tidy-statistics-in-r
 -	OCTRI’s excellent Intro to R workshops, also videos: https://github.com/jminnier/berd_r_courses
-- BMI 507: Ready for R (Ted Laderas' course - materials will be posted on website): https://ready4r.netlify.com/
-- R for the Rest of Us (free online course): https://rfortherestofus.com/courses/getting-started/
 -	R Bootcamp (interactive online tutorial), by OHSU’s Ted Laderas and Jessica Minnier: https://r-bootcamp.netlify.com/
+- Ready for R (Ted Laderas' course - go to website to sign up for access to materials): https://ready4r.netlify.com/
+- R for the Rest of Us (free online course): https://rfortherestofus.com/courses/getting-started/
 -	R for Excel Users (book): https://rstudio-conf-2020.github.io/r-for-excel/
 - Getting Used to R (book): https://ismayc.github.io/rbasics-book/index.html
 - RMarkdown for Scientists (short book, based on a 3-hour workshop): https://rmd4sci.njtierney.com/
