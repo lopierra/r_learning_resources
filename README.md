@@ -32,7 +32,8 @@ A little more advanced:
 -	Advanced R (book): http://adv-r.had.co.nz/Introduction.html
 - Introduction to Generalized Additive Models (interactive tutorial): https://noamross.github.io/gams-in-r-course/
 - Getting started with {tidymodels} for modeling & machine learning: https://www.tidymodels.org/start/
-- Supervised machine learning case studies in R: https://supervised-ml-course.netlify.com/
+- Supervised machine learning case studies in R ineractive tutorial): https://supervised-ml-course.netlify.app/
+- Text mining with tidy data principles (interactive tutorial): https://juliasilge.shinyapps.io/learntidytext/ 
 
 Other stuff:
 -	Follow [#rstats](https://twitter.com/hashtag/rstats?f=live) on Twitter
