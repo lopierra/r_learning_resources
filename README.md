@@ -13,6 +13,7 @@ For beginners/if you need a basic refresher:
 -	R Bootcamp (interactive online tutorial), by OHSU’s Ted Laderas and Jessica Minnier: https://r-bootcamp.netlify.com/
 - Ready for R (Ted Laderas' course - go to website to sign up for access to materials): https://ready4r.netlify.com/
 - R for the Rest of Us (free online course): https://rfortherestofus.com/courses/getting-started/
+- Harvard Chan Bioinformatics Core's Introduction to R (text + exercises): https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html
 -	R for Excel Users (book): https://rstudio-conf-2020.github.io/r-for-excel/
 - Getting Used to R (book): https://ismayc.github.io/rbasics-book/index.html
 - RMarkdown for Scientists (short book, based on a 3-hour workshop): https://rmd4sci.njtierney.com/
@@ -29,6 +30,7 @@ A little more advanced:
 -	What They Forgot to Teach You About R (ie, what your project workflow should look like): https://rstats.wtf/index.html
 - Plotting Anything with ggplot2 (video + exercises, theory + practice): https://github.com/thomasp85/ggplot2_workshop
 -	Advanced R (book): http://adv-r.had.co.nz/Introduction.html
+-	Harvard Chan Bioinformatics Core's Introduction to NGS analysis series (text, slides, exercises): https://hbctraining.github.io/main/
 - Introduction to Generalized Additive Models (interactive tutorial): https://noamross.github.io/gams-in-r-course/
 - Getting started with {tidymodels} for modeling & machine learning: https://www.tidymodels.org/start/
 - Supervised machine learning case studies in R ineractive tutorial): https://supervised-ml-course.netlify.app/
