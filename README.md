@@ -36,6 +36,8 @@ A little more advanced:
 - Getting started with {tidymodels} for modeling & machine learning: https://www.tidymodels.org/start/
 - Supervised machine learning case studies in R ineractive tutorial): https://supervised-ml-course.netlify.app/
 - Text mining with tidy data principles (interactive tutorial): https://juliasilge.shinyapps.io/learntidytext/ 
+- A gRadual intRoduction to Shiny: https://laderast.github.io/edu/2021-03-20-a-gradual-introduction-to-shiny/
+- Building Shiny apps: an interactive tutorial: https://deanattali.com/blog/building-shiny-apps-tutorial/
 
 Other stuff:
 -	Follow [#rstats](https://twitter.com/hashtag/rstats?f=live) on Twitter
