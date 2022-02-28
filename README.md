@@ -12,11 +12,11 @@ For beginners/if you need a basic refresher:
 -	OCTRI’s excellent Intro to R workshops, also videos: https://github.com/jminnier/berd_r_courses
 -	R Bootcamp (interactive online tutorial), by OHSU’s Ted Laderas and Jessica Minnier: https://r-bootcamp.netlify.com/
 - Ready for R (Ted Laderas' course - go to website to sign up for access to materials): https://ready4r.netlify.com/
-- DREAM-HIGH R tutorials (base R): https://dream-high.org/tutorials
 - R for the Rest of Us (free online course): https://rfortherestofus.com/courses/getting-started/
 - Harvard Chan Bioinformatics Core's Introduction to R (text + exercises): https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html
 -	R for Excel Users (book): https://rstudio-conf-2020.github.io/r-for-excel/
 - Getting Used to R (book): https://ismayc.github.io/rbasics-book/index.html
+- DREAM-HIGH R tutorials (base R): https://dream-high.org/tutorials
 - RMarkdown for Scientists (short book, based on a 3-hour workshop): https://rmd4sci.njtierney.com/
 - Not R, but if you're interested in learning some SQL: https://mode.com/sql-tutorial/
 
