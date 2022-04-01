@@ -11,6 +11,7 @@ For beginners/if you need a basic refresher:
 -	Great overview of what R even is (video): https://resources.rstudio.com/webinars/a-gentle-introduction-to-tidy-statistics-in-r
 -	OCTRI’s excellent Intro to R workshops, also videos: https://github.com/jminnier/berd_r_courses
 -	R Bootcamp (interactive online tutorial), by OHSU’s Ted Laderas and Jessica Minnier: https://r-bootcamp.netlify.com/
+-	RStudio Cloud Primers (interactive online tutorials): https://rstudio.cloud/learn/primers
 - Ready for R (Ted Laderas' course - go to website to sign up for access to materials): https://ready4r.netlify.com/
 - R for the Rest of Us (free online course): https://rfortherestofus.com/courses/getting-started/
 - Harvard Chan Bioinformatics Core's Introduction to R (text + exercises): https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html
