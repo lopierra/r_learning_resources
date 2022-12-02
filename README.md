@@ -30,6 +30,7 @@ Also beginner friendly, but extending further into statistics & data science:
 
 A little more advanced:
 -	What They Forgot to Teach You About R (ie, what your project workflow should look like): https://rstats.wtf/index.html
+     - This was presented as a workshop at rstudio::conf 2022. The workshop wasn't recorded, but all the slides are available [here](https://rstudio-conf-2022.github.io/wtf-rstats/) if you click on the links in the schedule.
 - Plotting Anything with ggplot2 (video + exercises, theory + practice): https://github.com/thomasp85/ggplot2_workshop
 -	Advanced R (book): http://adv-r.had.co.nz/Introduction.html
 -	Harvard Chan Bioinformatics Core's Introduction to NGS analysis series (text, slides, exercises): https://hbctraining.github.io/main/
