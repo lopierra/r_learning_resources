@@ -48,11 +48,11 @@ Other stuff:
   -	And search #tidytuesday on Twitter to see what others have done
 - Non-technical overview of Git and GitHub (slides + youtube video): https://speakerdeck.com/alicebartlett/git-for-humans
 -	If you want to learn how to use Git/GitHub with R: https://happygitwithr.com/
--	Finally, RStudio has a great collection of freely available webinars (https://resources.rstudio.com/webinars) and talks from their recent conference (https://resources.rstudio.com/rstudio-conf-2020)
+-	Finally, RStudio has a great collection of freely available webinars and talks from their recent conferences (go to https://posit.co/resources/videos/ and use the "Filter by" dropdown menu)
 
 Other people's roundups - i.e. good stuff that might not be on my radar:
 - Alison Hill's Remote Learning Roundup (https://education.rstudio.com/blog/2020/05/remote-roundup/)
-- Oscar Baruffa's [**Big Book of R**](https://www.bigbookofr.com/)
+- Oscar Baruffa's [**Big Book of R**](https://www.bigbookofr.com/): A roundup of pretty much every R book ever written
 ---
 
 **Download R here:** https://cloud.r-project.org/
