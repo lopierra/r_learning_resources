@@ -7,8 +7,8 @@
 Here are some great tutorials (both video and book format) for learning R. They are in no particular order - pick one that speaks to you and dive in!
 
 For beginners/if you need a basic refresher:
+-	Great place to start - overview of what R even is (video): https://resources.rstudio.com/webinars/a-gentle-introduction-to-tidy-statistics-in-r
 -	How to install R and RStudio on your Mac or Windows computer (video): https://youtube.com/playlist?list=PLRPB0ZzEYegOZivdelOuEn-R-XUN-DOjd 
--	Great overview of what R even is (video): https://resources.rstudio.com/webinars/a-gentle-introduction-to-tidy-statistics-in-r
 -	OCTRI’s excellent Intro to R workshops, also videos: https://github.com/jminnier/berd_r_courses
 -	R Bootcamp (interactive online tutorial), by OHSU’s Ted Laderas and Jessica Minnier: https://r-bootcamp.netlify.com/
 -	RStudio Cloud Primers (interactive online tutorials): https://rstudio.cloud/learn/primers
