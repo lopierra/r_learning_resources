@@ -20,6 +20,7 @@ For beginners/if you need a basic refresher:
 - DREAM-HIGH R tutorials (base R): https://dream-high.org/tutorials
 - RMarkdown for Scientists (short book, based on a 3-hour workshop): https://rmd4sci.njtierney.com/
 - Not R, but if you're interested in learning some SQL: https://mode.com/sql-tutorial/
+- Also not R, but super important - how to set up your data collection spreadsheets for successful analysis: https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
 
 Also beginner friendly, but extending further into statistics & data science:
 -	R for Data Science (https://r4ds.had.co.nz/index.html)
