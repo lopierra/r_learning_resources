@@ -47,7 +47,7 @@ Other stuff:
 -	RStudio cheatsheets – I use these constantly: https://rstudio.com/resources/cheatsheets/
 -	If you want a non-work-related dataset to play with: https://github.com/rfordatascience/tidytuesday
   -	And search #tidytuesday on Twitter to see what others have done
-- Non-technical overview of Git and GitHub (slides + youtube video): https://speakerdeck.com/alicebartlett/git-for-humans
+- Non-technical overview of Git and GitHub (slides + youtube video): https://speakerdeck.com/alicebartlett/git-for-humans; https://www.youtube.com/watch?v=eWxxfttcMts
 -	If you want to learn how to use Git/GitHub with R: https://happygitwithr.com/
 -	RStudio has a great collection of freely available webinars and talks from their recent conferences (go to https://posit.co/resources/videos/ and use the "Filter by" dropdown menu)
 -	[Allison Horst](https://allisonhorst.com/) makes fantastic and friendly art explaining concepts in R and data science
