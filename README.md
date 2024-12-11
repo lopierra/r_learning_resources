@@ -19,6 +19,7 @@ For beginners/if you need a basic refresher:
 - Getting Used to R (book): https://ismayc.github.io/rbasics-book/index.html
 - DREAM-HIGH R tutorials (base R): https://dream-high.org/tutorials
 - RMarkdown for Scientists (short book, based on a 3-hour workshop): https://rmd4sci.njtierney.com/
+- Learning R as a SAS user: https://hutchdatascience.org/data_snacks/r_snacks/sas2r.html 
 - Not R, but if you're interested in learning some SQL: https://mode.com/sql-tutorial/
 - Also not R, but super important - how to set up your data collection spreadsheets for successful analysis: https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
 
